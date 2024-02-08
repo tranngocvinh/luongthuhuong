@@ -55,7 +55,7 @@ body {
   height: 8vmin;
   width: 10vmin;
   border-radius: 40%;
-  top: 15vmin;
+  top: 17vmin;
   display: flex;
 }
 .pikachu::before {
